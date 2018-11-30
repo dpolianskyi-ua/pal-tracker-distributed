@@ -1,2 +1,6 @@
 subprojects {
+
+    dependencies {
+        compile "com.netflix.hystrix:hystrix-javanica:1.5.6"
+    }
 }
